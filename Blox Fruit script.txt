@@ -2173,7 +2173,7 @@ end
 local Tab = Window:AddTab("Main GUIs")
 
 	do -- Elements
-		Tab:AddLabel("Thanks For Using Furk Ultra!")
+		Tab:AddLabel("Thanks For Using SAAFIRE HUB!")
 		Tab:AddLabel("~ Press Right Shift To Hide GUI ~")
 		
 
