@@ -2033,7 +2033,7 @@ do -- Example UI
 
 	do -- Elements
 	
-	Tab:AddLabel("Thanks For Using Furk Ultra!")
+	Tab:AddLabel("Thanks For Using SAAFIRE HUB!")
 	Tab:AddLabel("~ Press Right Shift To Hide GUI ~")
 
 		Tab:AddButton("Tuper Hub", function()
@@ -2063,7 +2063,7 @@ end
 	local Tab = Window:AddTab("List 4")
 
 	do -- Elements
-		Tab:AddLabel("Thanks For Using Furk Ultra!")
+		Tab:AddLabel("Thanks For Using SAAFIRE HUB!")
 		Tab:AddLabel("~ Press Right Shift To Hide GUI ~")
 		
 				Tab:AddButton("Whale Hub", function()
@@ -2101,7 +2101,7 @@ end
 	local Tab = Window:AddTab("List 3")
 
 	do -- Elements
-		Tab:AddLabel("Thanks For Using Furk Ultra!")
+		Tab:AddLabel("Thanks For Using SAAFIRE HUB!")
 		Tab:AddLabel("~ Press Right Shift To Hide GUI ~")
 		
 				Tab:AddButton("Putaya Hub", function()
@@ -2137,7 +2137,7 @@ end
 	local Tab = Window:AddTab("List 2")
 
 	do -- Elements
-		Tab:AddLabel("Thanks For Using Furk Ultra!")
+		Tab:AddLabel("Thanks For Using SAAFIRE HUB!")
 		Tab:AddLabel("~ Press Right Shift To Hide GUI ~")
 		
 		Tab:AddButton("Maru Hub", function()
